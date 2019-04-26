@@ -1,0 +1,6 @@
+print("Hej")
+print("vad är ditt förnamn?")
+fnamn=(input("> "))
+print("vad är ditt efternamn?")
+enamn=(input("> "))
+print("trevligt att träffas "+str(fnamn), str(enamn))
