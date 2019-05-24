@@ -1,8 +1,8 @@
 ﻿AV: Simon Ögaard Jozic 180s abb teknik spets
 
-Gå in på Slutliga project, Project+AI.py för programmet
+# Gå in på Slutliga project, Project+AI.py för programmet
 
-Egen uppgift:
+## Egen uppgift:
 1 the basics:
 A) Gör ett enkelt program som tar data från en stock och visar det i terminalen
 B) Spara informationen i en separat fil
@@ -31,7 +31,7 @@ A) Gör en enkel AI (som använder sig utav chans) att investera brevid dig
 B) Gör det till en tävling du ska tävla med AI den som investerar bäst vinner
 
 
-Skulle vara roligt att fortsätta när jag har läst om AI kan inte nu dock
+###  Skulle vara roligt att fortsätta när jag har läst om AI kan inte nu dock
     C) Förbättra AI (SPARA ALLA VERITIONER AV AI DE KOMMER ANVÄNDAS SENARE)
 
     5 improvice adapt overcome:
