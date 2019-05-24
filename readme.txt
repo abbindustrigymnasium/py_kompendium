@@ -1,6 +1,6 @@
 ﻿AV: Simon Ögaard Jozic 180s abb teknik spets
 
-# Gå in på Slutliga project, Project+AI.py för programmet
+Gå in på Slutliga project, Project+AI.py för programmet
 
 Egen uppgift:
 1 the basics:
